@@ -3,4 +3,4 @@ SQL File
 1. init_staging : initialize staging schema and data
 2. wh_schema : create data warehouse dimensional model
 3. wh_populating-data: Initial Load from staging to data warehouse
-4. wh_trigger: Handel new data and updated data from staging
+4. wh_trigger: Handle new data and updated data from staging
